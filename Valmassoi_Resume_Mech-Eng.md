@@ -1,5 +1,5 @@
 ## Robert Valmassoi
-[rvalmassoi@gmail.com](mailto:rvalmassoi@gmail.com)
+[rvalmassoi@gmail.com](mailto:rvalmassoi@gmail.com)  
 1615 Tustin Ave. • Costa Mesa, CA 92627
 
 ### Objective
@@ -17,20 +17,20 @@ for company that helped grow category to become world leader in sales and design
 • Constructed insulated testing chamber to analyze and calculate energy efficiency of hot tubs, ensuring California Energy Commission requirements were met  
 • Created 3D plumbing drawings to streamline manufacturing process, 1,000+ hours of SolidWorks logged
 
-**Comity Web Agency** --> **Jade Labs LLC**, Owner *December 2010 - Present*
+**Comity Web Agency** --> **Jade Labs LLC**, Owner *December 2010 - Present*  
 • Founded company to give web presence to small businesses in multiple states  
 • Wide range of duties and responsibilities, from website development to company management  
 • Managed 25 interns under an annual internship program, employing international technology students  
 • Negotiated a $50,000 contract for a custom application that streamlined company’s workflow  
 • Worked directly with many clients throughout project builds, adjusting services to needs
 
-**Rapid Prototype Senior Design**, Team Leader *June 2014 - July 2014*
+**Rapid Prototype Senior Design**, Team Leader *June 2014 - July 2014*  
 • Designed aerodynamic recumbent bicycle featuring regenerative braking and Ackerman steering  
 • Performed weight, aerodynamic, and force analysis using SolidWorks  
 • Optimized SolidWorks design for .stl filetype to rapid prototype 1/5 model  
 • Delegated tasks to team members based on abilities, completing project ahead of schedule
 
-**Space Cash App**, Designer and Developer *December 2013 - Present*
+**Space Cash App**, Designer and Developer *December 2013 - Present*  
 • Sole developer of a 4.5/5 star rated bitcoin/altcoin price ticker application  
 • First app to have over 100 cryptocurrencies, filling a need in the space  
 • Successfully passed Apple’s App Store approval process  
@@ -48,8 +48,8 @@ for company that helped grow category to become world leader in sales and design
 
 ### Volunteering
 • Boys and Girls Club of Lafayette  
-  • Phi Kappa Psi philanthropy  
-  • Engaged with under privileged youth  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Phi Kappa Psi philanthropy  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Engaged with under privileged youth  
 • Habitat for Humanity  
-  • Technician for a blitz build project  
-  • Set up live webcams to track the build progress
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Technician for a blitz build project  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Set up live webcams to track the build progress
