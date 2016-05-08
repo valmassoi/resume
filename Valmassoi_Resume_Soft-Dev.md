@@ -10,7 +10,8 @@ To obtain a full-time position as a junior full stack developer
 Bachelor of Science in Mechanical Engineering *August 2014*  
 
 **FreeCodeCamp.com/valmassoi, Computer Software Engineering**  
-Front End Development Certification, Data Visualization Certification *February 2016 - Current*  
+Received Front End Development and Data Visualization Certifications *February 2016 - Current*  
+Working on Back End and Full Stack Certifications
 
 ### Work Experience
 **Master Spas**, Engineering and Computer Drafting Intern *May 2007 - August 2011*  
@@ -41,7 +42,7 @@ for company that helped grow category to become world leader in sales and design
 
 ### Skills
 • Proficient in `JavaScript`, `Node.js`, `React.js`, `MongoDB`, `Express.js`, `HTML`/`CSS`, `Jquery`, `Babel`, `Sass`, `Web Design`, `MATLAB`, `MS Office`  
-• Knowledge of `Objective-C`, `Swift`, `Adobe Creative Cloud`
+• Knowledge of `Objective-C`, `Swift`, `Adobe Creative Cloud`  
 • DevOps: `Linux`, `OSX`, `Atom.io`, `Git`/`Github`
 
 ### Extracurricular
