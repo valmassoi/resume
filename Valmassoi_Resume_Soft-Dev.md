@@ -41,9 +41,9 @@ for company that helped grow category to become world leader in sales and design
 • Continues to improve app, implement new features, and provide updates with SDK and API changes
 
 ### Skills
-• Proficient in `JavaScript`, `Node.js`, `React.js`, `MongoDB`, `Express.js`, `HTML`/`CSS`, `Jquery`, `Babel`, `Sass`, `Web Design`, `MATLAB`, `MS Office`  
+• Proficient in `JavaScript`, `Node.js`, `React.js`, `MongoDB`, `Express.js`, `HTML`, `CSS`, `Jquery`, `Babel`, `SASS`, `Responsive Web Design`, `MATLAB`  
 • Knowledge of `Objective-C`, `Swift`, `Adobe Creative Cloud`  
-• DevOps: `Linux`, `OSX`, `Atom.io`, `Git`/`Github`
+• DevOps: `Linux`, `OSX`, `Atom.io`, `Webpack`, `Xcode`, `Git`/`Github`, `Heroku`
 
 ### Extracurricular
 • Phi Kappa Psi Fraternity, Indiana Delta  
