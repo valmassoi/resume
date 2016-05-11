@@ -5,7 +5,7 @@ I have background in both Mechanical Engineering (Purdue University Grad) and So
 https://www.linkedin.com/in/robertvalmassoi
 
 ## Portfolios
-https://github.com/valmassoi/  
-https://freecodecamp.com/valmassoi  
-https://codepen.io/valmassoi/  
-https://www.behance.net/rvalmassoi/  
+Open Source Projects - https://github.com/valmassoi/  
+`HTML` `CSS` `JavaScript` Projects and Algorithms - https://freecodecamp.com/valmassoi  
+Small Projects - https://codepen.io/valmassoi/  
+Design work - https://www.behance.net/rvalmassoi/  
