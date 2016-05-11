@@ -1,5 +1,5 @@
 ## Robert Valmassoi Resume(s)
-I have background in both Mechanical Engineering (Purdue University Grad) and Software Development. I am currently pursuing a career in software development.
+I have background in both Mechanical Engineering (Purdue University Grad) and Software Development. I am currently pursuing a career in [software development](https://github.com/valmassoi/resume/blob/master/Valmassoi_Resume_Soft-Dev.md).
 
 ##LinkedIn
 https://www.linkedin.com/in/robertvalmassoi
