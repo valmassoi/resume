@@ -3,7 +3,7 @@
 1615 Tustin Ave. • Costa Mesa, CA 92627
 
 ### Objective
-To obtain a full-time position as a junior full stack developer
+To obtain a full-time position as a junior full stack developer with a focus on `React`
 
 ### Education
 **Purdue University, School of Mechanical Engineering**  
@@ -11,7 +11,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 
 **FreeCodeCamp.com/valmassoi, Computer Software Engineering**  
 Received Front End Development and Data Visualization Certifications *February 2016 - Current*  
-Working on Back End and Full Stack Certifications
+Finishing Back End Certification *Expected: June 2016*
 
 ### Work Experience
 **Master Spas**, Engineering and Computer Drafting Intern *May 2007 - August 2011*  
