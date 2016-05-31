@@ -8,4 +8,4 @@ https://www.linkedin.com/in/robertvalmassoi
 Open Source Projects - https://github.com/valmassoi/  
 `HTML` `CSS` `JavaScript` Projects and Algorithms - https://freecodecamp.com/valmassoi  
 Small Projects - https://codepen.io/valmassoi/  
-Design work - https://www.behance.net/rvalmassoi/  
+Design work - https://www.behance.net/rvalmassoi/  (On left - under Web References)
