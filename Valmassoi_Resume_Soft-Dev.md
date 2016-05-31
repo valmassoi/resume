@@ -9,8 +9,8 @@ To obtain a full-time position as a junior full stack developer with a focus on 
 **Purdue University, School of Mechanical Engineering**  
 Bachelor of Science in Mechanical Engineering *August 2014*  
 
-**FreeCodeCamp.com/valmassoi, Computer Software Engineering**  
-Received Front End Development and Data Visualization Certifications *February 2016 - Current*  
+**FreeCodeCamp.com/[valmassoi](https://www.freecodecamp.com/valmassoi), Computer Software Engineering**  
+Received [Front End Development](https://www.freecodecamp.com/valmassoi/front-end-certification) and [Data Visualization](https://www.freecodecamp.com/valmassoi/data-visualization-certification) Certifications *February 2016 - Current*  
 Finishing Back End Certification *Expected: June 2016*
 
 ### Work Experience
