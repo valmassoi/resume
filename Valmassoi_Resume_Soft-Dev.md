@@ -47,7 +47,7 @@ for company that helped grow category to become world leader in sales and design
 ### Skills
 • Proficient in `JavaScript`, `Node.js`, { `flux`, `redux` } from `React.js`, `MongoDB`, `Express.js`, `HTML`, `CSS`, `Jquery`, `Babel`, `SASS`, `Responsive Web Design`, `MATLAB`  
 • Knowledge of `Objective-C`, `Swift`, `Adobe Creative Cloud`  
-• DevOps: `Linux`, `OSX`, `Atom.io`, `Yeoman`, `Webpack`, `Xcode`, `Git`/`Github`, `Heroku`  
+• DevOps: `Linux`, `OSX`, `Atom.io`, `Yeoman`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`  
 
 ### Extracurricular
 • Phi Kappa Psi Fraternity, Indiana Delta  
