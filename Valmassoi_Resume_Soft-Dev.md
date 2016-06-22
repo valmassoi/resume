@@ -11,8 +11,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 
 > #### Certifications
 > **FreeCodeCamp.com/[valmassoi](https://www.freecodecamp.com/valmassoi), Computer Software Engineering**  
-> Received [Front End Development](https://www.freecodecamp.com/valmassoi/front-end-certification) and [Data Visualization](https://www.freecodecamp.com/valmassoi/data-visualization-certification) Certifications *February 2016 - Current*  
-> Finishing Back End Certification *Expected: June 2016*  
+> Received [Front End Development](https://www.freecodecamp.com/valmassoi/front-end-certification), [Data Visualization](https://www.freecodecamp.com/valmassoi/data-visualization-certification), and [Back End Development](https://www.freecodecamp.com/valmassoi/back-end-certification) Certifications *February 2016 - June 2016*  
 
 > **Udemy.com, Computer Software Engineering**  
 > [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/) Certification *May 2016*  
