@@ -1,4 +1,4 @@
-## Robert Valmassoi Resume(s)
+## Robert Valmassoi Resume
 I have background in both Mechanical Engineering (Purdue University Grad) and Software Development. I am currently pursuing a career in [software development](https://github.com/valmassoi/resume/blob/master/Valmassoi_Resume_Soft-Dev.md), looking for a full-time position as a junior full stack developer with a focus on `React`.
 
 ##LinkedIn
