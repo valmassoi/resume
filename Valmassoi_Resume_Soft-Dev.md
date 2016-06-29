@@ -16,6 +16,11 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 > **Udemy.com, Computer Software Engineering**  
 > [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/) Certification *May 2016*  
 
+### Skills
+• Proficient in `JavaScript`, `Node.js`, { `flux`, `redux` } from `React.js`, `MongoDB`, `Express.js`, `HTML`, `CSS`, `jQuery`, `Babel`, `SASS`, `Responsive Web Design`  
+• Knowledge of `Objective-C`, `Swift`, `Adobe Creative Cloud`, `MATLAB`  
+• DevOps: `Linux`, `OSX`, `Atom.io`, `Yeoman`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`  
+
 ### Work Experience
 **Master Spas**, Engineering and Computer Drafting Intern *May 2007 - August 2011*  
 • Collaborated with team of engineers and manufacturer to create rotomolded light fixture, implemented into the product  
@@ -42,11 +47,6 @@ for company that helped grow category to become world leader in sales and design
 • First app to have over 100 cryptocurrencies, filling a need in the space  
 • Successfully passed Apple’s App Store approval process  
 • Continues to improve app, implement new features, and provide updates with SDK and API changes
-
-### Skills
-• Proficient in `JavaScript`, `Node.js`, { `flux`, `redux` } from `React.js`, `MongoDB`, `Express.js`, `HTML`, `CSS`, `Jquery`, `Babel`, `SASS`, `Responsive Web Design`, `MATLAB`  
-• Knowledge of `Objective-C`, `Swift`, `Adobe Creative Cloud`  
-• DevOps: `Linux`, `OSX`, `Atom.io`, `Yeoman`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`  
 
 ### Extracurricular
 • Phi Kappa Psi Fraternity, Indiana Delta  
