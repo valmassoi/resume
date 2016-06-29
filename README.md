@@ -8,4 +8,5 @@ https://www.linkedin.com/in/robertvalmassoi
 Open Source Projects - https://github.com/valmassoi/  
 `HTML` `CSS` `JavaScript` Projects and Algorithms - https://freecodecamp.com/valmassoi  
 Small Projects - https://codepen.io/valmassoi/  
-Design work - https://www.behance.net/rvalmassoi/  (On left - under Web References)
+iOS - https://itunes.apple.com/us/developer/robert-valmassoi/id789603626  
+Web Design - `http://surfburro.com/` `http://vinscanapp.com/` `http://oliversurfboards.com/` `http://varialsurf.com/` `http://veer.technology/` `http://spykesktm.com/`
