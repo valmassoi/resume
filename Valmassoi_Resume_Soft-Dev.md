@@ -14,7 +14,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 > Received [Front End Development](https://www.freecodecamp.com/valmassoi/front-end-certification), [Data Visualization](https://www.freecodecamp.com/valmassoi/data-visualization-certification), and [Back End Development](https://www.freecodecamp.com/valmassoi/back-end-certification) Certifications *February 2016 - June 2016*  
 
 > **Udemy.com, Computer Software Engineering**  
-> [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/) Certification *May 2016*  
+> [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/) and [Advanced React and Redux](https://www.udemy.com/certificate/UC-8IW4O5O5/) Certifications *May 2016 - July 2016*  
 
 ### Skills
 • Proficient in `JavaScript`, `Node.js`, { `flux`, `redux` } from `React.js`, `MongoDB`, `Express.js`, `HTML`, `CSS`, `jQuery`, `Babel`, `SASS`, `Responsive Web Design`  
