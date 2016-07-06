@@ -1,4 +1,4 @@
-## Robert Valmassoi
+## Robert Valmassoi - https://github.com/valmassoi
 [rvalmassoi@gmail.com](mailto:rvalmassoi@gmail.com)  
 1615 Tustin Ave. • Costa Mesa, CA 92627
 
@@ -22,13 +22,6 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 • DevOps: `Linux`, `OSX`, `Atom.io`, `Yeoman`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`  
 
 ### Work Experience
-**Master Spas**, Engineering and Computer Drafting Intern *May 2007 - August 2011*  
-• Collaborated with team of engineers and manufacturer to create rotomolded light fixture, implemented into the product  
-• Redesigned swim spa to accommodate Michael Phelps’ wingspan, ultimately becoming new product line  
-for company that helped grow category to become world leader in sales and design  
-• Constructed insulated testing chamber to analyze and calculate energy efficiency of hot tubs, ensuring California Energy Commission requirements were met  
-• Created 3D plumbing drawings to streamline manufacturing process, 1,000+ hours of SolidWorks logged
-
 **Comity Web Agency** --> **Jade Labs LLC**, Owner *December 2010 - Present*  
 • Founded company to give web presence to small businesses in multiple states  
 • Wide range of duties and responsibilities, from website development to company management  
@@ -36,17 +29,24 @@ for company that helped grow category to become world leader in sales and design
 • Negotiated a $50,000 contract for a custom application that streamlined company’s workflow  
 • Worked directly with many clients throughout project builds, adjusting services to needs
 
-**Rapid Prototype Senior Design**, Team Leader *June 2014 - July 2014*  
-• Designed aerodynamic recumbent bicycle featuring regenerative braking and Ackerman steering  
-• Performed weight, aerodynamic, and force analysis using SolidWorks  
-• Optimized SolidWorks design for .stl filetype to rapid prototype 1/5 model  
-• Delegated tasks to team members based on abilities, completing project ahead of schedule
-
 **Space Cash App**, Designer and Developer *December 2013 - Present*  
 • Sole developer of a 4.5/5 star rated bitcoin/altcoin price ticker application  
 • First app to have over 100 cryptocurrencies, filling a need in the space  
 • Successfully passed Apple’s App Store approval process  
 • Continues to improve app, implement new features, and provide updates with SDK and API changes
+
+**Master Spas**, Engineering and Computer Drafting Intern *May 2007 - August 2011*  
+• Collaborated with team of engineers and manufacturer to create rotomolded light fixture, implemented into the product  
+• Redesigned swim spa to accommodate Michael Phelps’ wingspan, ultimately becoming new product line  
+for company that helped grow category to become world leader in sales and design  
+• Constructed insulated testing chamber to analyze and calculate energy efficiency of hot tubs, ensuring California Energy Commission requirements were met  
+• Created 3D plumbing drawings to streamline manufacturing process, 1,000+ hours of SolidWorks logged
+
+**Rapid Prototype Senior Design**, Team Leader *June 2014 - July 2014*  
+• Designed aerodynamic recumbent bicycle featuring regenerative braking and Ackerman steering  
+• Performed weight, aerodynamic, and force analysis using SolidWorks  
+• Optimized SolidWorks design for .stl filetype to rapid prototype 1/5 model  
+• Delegated tasks to team members based on abilities, completing project ahead of schedule
 
 ### Extracurricular
 • Phi Kappa Psi Fraternity, Indiana Delta  
