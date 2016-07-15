@@ -22,11 +22,11 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 • DevOps: `Linux`, `OSX`, `Atom.io`, `Yeoman`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`  
 
 ### Work Experience
-**Comity Web Agency** --> **Jade Labs LLC**, Owner *December 2010 - Present*  
+**Comity Web Agency** --> **Jade Labs LLC**, Owner/Developer *December 2010 - Present*  
 • Founded company to give web presence to small businesses in multiple states  
 • Wide range of duties and responsibilities, from website development to company management  
 • Managed 25 interns under an annual internship program, employing international technology students  
-• Negotiated a $50,000 contract for a custom application that streamlined company’s workflow  
+• Negotiated $100,000+ in contracts for a custom mobile application that streamlined company’s workflow  
 • Worked directly with many clients throughout project builds, adjusting services to needs
 
 **Space Cash App**, Designer and Developer *December 2013 - Present*  
