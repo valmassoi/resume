@@ -14,11 +14,11 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 > Received [Front End Development](https://www.freecodecamp.com/valmassoi/front-end-certification), [Data Visualization](https://www.freecodecamp.com/valmassoi/data-visualization-certification), and [Back End Development](https://www.freecodecamp.com/valmassoi/back-end-certification) Certifications *February 2016 - June 2016*  
 
 > **Udemy.com, Computer Software Engineering**  
-> [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/) and [Advanced React and Redux](https://www.udemy.com/certificate/UC-8IW4O5O5/) Certifications *May 2016 - July 2016*  
+> [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/), [Advanced React and Redux](https://www.udemy.com/certificate/UC-8IW4O5O5/), and [Angular 2 with TypeScript](https://www.udemy.com/certificate/UC-564D51CX/) Certifications *May 2016 - August 2016*  
 
 ### Skills
-• Proficient in `JavaScript`, `Node.js`, { `flux`, `redux` } from `React.js`, `MongoDB`, `Express.js`, `HTML`, `CSS`, `jQuery`, `Babel`, `SASS`, `Responsive Web Design`  
-• Knowledge of `Objective-C`, `Swift`, `Adobe Creative Cloud`, `MATLAB`  
+• Proficient in `JavaScript`, { `flux`, `redux` } from `React.js`, `Node.js`, `MongoDB`, `Express.js`, `HTML`, `CSS`, `jQuery`, `SASS`, `Responsive Web Design`  
+• Knowledge of `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`, `MATLAB`  
 • DevOps: `Linux`, `OSX`, `Atom.io`, `Yeoman`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`  
 
 ### Work Experience
