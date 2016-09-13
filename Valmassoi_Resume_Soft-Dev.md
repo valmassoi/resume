@@ -3,7 +3,7 @@
 1615 Tustin Ave. • Costa Mesa, CA 92627
 
 ### Objective
-To obtain a full-time position as a junior full stack developer with a focus on `React`
+To obtain a full-time position as a front end developer with a focus on `React`
 
 ### Education
 **Purdue University, School of Mechanical Engineering**  
@@ -19,7 +19,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 ### Skills
 • Proficient in `JavaScript`, { `flux`, `redux` } from `React.js`, `Node.js`, `MongoDB`, `Express.js`, `HTML`, `CSS`, `jQuery`, `SASS`, `Responsive Web Design`  
 • Knowledge of `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`, `MATLAB`  
-• DevOps: `Linux`, `OSX`, `Atom.io`, `Yeoman`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`  
+• Dev Env: `Linux`, `OSX`, `Atom.io`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`  
 
 ### Work Experience
 **Comity Web Agency** --> **Jade Labs LLC**, Owner/Developer *December 2010 - Present*  
