@@ -17,9 +17,9 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 > [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/), [Advanced React and Redux](https://www.udemy.com/certificate/UC-8IW4O5O5/), and [Angular 2 with TypeScript](https://www.udemy.com/certificate/UC-564D51CX/) Certifications *May 2016 - August 2016*  
 
 ### Skills
-• Proficient in `JavaScript`, { `flux`, `redux` } from `React.js`, `Node.js`, `MongoDB`, `Express.js`, `HTML`, `CSS`, `jQuery`, `SASS`, `Responsive Web Design`  
-• Knowledge of `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`, `MATLAB`  
-• Dev Env: `Linux`, `OSX`, `Atom.io`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`  
+• Proficient in `JavaScript`, { `redux` } from `React.js`, `Node.js`, `jQuery`, `MongoDB`, `HTML`, `CSS`, `SASS`, `Responsive Web Design`  
+• Knowledge of `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`, `Ansible`  
+• Dev Env: `Linux`, `OSX`, `Atom.io`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`, `AWS`, `Jenkins`  
 
 ### Work Experience
 **Comity Web Agency** --> **Jade Labs LLC**, Owner/Developer *December 2010 - Present*  
