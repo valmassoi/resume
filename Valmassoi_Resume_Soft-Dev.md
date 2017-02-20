@@ -42,12 +42,6 @@ for company that helped grow category to become world leader in sales and design
 • Constructed insulated testing chamber to analyze and calculate energy efficiency of hot tubs, ensuring California Energy Commission requirements were met  
 • Created 3D plumbing drawings to streamline manufacturing process, 1,000+ hours of SolidWorks logged
 
-**Rapid Prototype Senior Design**, Team Leader *June 2014 - July 2014*  
-• Designed aerodynamic recumbent bicycle featuring regenerative braking and Ackerman steering  
-• Performed weight, aerodynamic, and force analysis using SolidWorks  
-• Optimized SolidWorks design for .stl filetype to rapid prototype 1/5 model  
-• Delegated tasks to team members based on abilities, completing project ahead of schedule
-
 ### Extracurricular
 • Phi Kappa Psi Fraternity, Indiana Delta  
 • Study abroad, Bechtel-Australia  
