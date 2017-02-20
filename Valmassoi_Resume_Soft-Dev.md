@@ -3,7 +3,7 @@
 Salt Lake City, UT
 
 ### Objective
-To obtain a full-time position as a front end developer with a focus on `React`
+To obtain a full-time position as a Front-end developer with a focus on `React`
 
 ### Education
 **Purdue University, School of Mechanical Engineering**  
@@ -22,12 +22,18 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 • Dev Env: `Linux`, `OSX`, `Atom.io`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`, `AWS`, `Jenkins`  
 
 ### Work Experience
+**T0 of Overstock.com**, Front-end Developer *Nov 2016 - Current*  
+• Helped team meet tight deadline to launch world’s first publicly traded security on a `blockchain`  
+• Lead refactoring from `jQuery` single page app to `React` with `Redux`  
+• Consistently delivered completed stories on time, in an `Agile` environment  
+• Broadened my developer skill set / `blockchain` knowledge through weekly lunch & learns and collaboration
+
 **Comity Web Agency** --> **Jade Labs LLC**, Owner/Developer *December 2010 - Present*  
 • Founded company to give web presence to small businesses in multiple states  
 • Wide range of duties and responsibilities, from website development to company management  
 • Managed 25 interns under an annual internship program, employing international technology students  
 • Negotiated $100,000+ in contracts for a custom mobile application that streamlined company’s workflow  
-• Worked directly with many clients throughout project builds, adjusting services to needs
+• Worked directly with many clients throughout product builds, adjusting services to needs
 
 **Space Cash App**, Designer and Developer *December 2013 - Present*  
 • Sole developer of a 4.5/5 star rated bitcoin/altcoin price ticker application  
