@@ -1,6 +1,6 @@
 ## Robert Valmassoi - https://github.com/valmassoi
-[rvalmassoi@gmail.com](mailto:rvalmassoi@gmail.com)  
-1615 Tustin Ave. • Costa Mesa, CA 92627
+[rvalmassoi@protonmail.com](mailto:rvalmassoi@protonmail.com)  
+Salt Lake City, UT
 
 ### Objective
 To obtain a full-time position as a front end developer with a focus on `React`
