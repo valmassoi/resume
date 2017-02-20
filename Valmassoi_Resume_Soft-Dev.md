@@ -19,7 +19,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 ### Skills
 • Proficient in `JavaScript`, { `redux` } from `React.js`, `Node.js`, `jQuery`, `MongoDB`, `HTML`, `CSS`, `SASS`, `Responsive Web Design`  
 • Knowledge of `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`, `Ansible`  
-• Dev Env: `Linux`, `OSX`, `Atom.io`, `Webpack`, `Mocha`, `Xcode`, `Git`/`Github`, `Heroku`, `AWS`, `Jenkins`  
+• Dev Env: `Linux`, `OSX`, `Atom.io`, `Webpack`,  `Xcode`, `Git`/`Github`, `Heroku`, `AWS`, `Jenkins`  
 
 ### Work Experience
 **T0 of Overstock.com**, Front-end Developer *Nov 2016 - Current*  
