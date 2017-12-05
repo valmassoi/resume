@@ -1,5 +1,5 @@
 ## Robert Valmassoi - https://github.com/valmassoi
-[rvalmassoi@protonmail.com](mailto:rvalmassoi@protonmail.com)  
+[valmassoi@protonmail.com](mailto:valmassoi@protonmail.com)  
 Salt Lake City, UT
 
 ### Objective
