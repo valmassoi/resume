@@ -22,7 +22,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 • Dev Env: `Linux`, `OSX`, `Atom.io`, `Webpack`,  `Xcode`, `Git`/`Github`, `Heroku`, `AWS`, `Jenkins`  
 
 ### Work Experience
-**T0 of Overstock.com**, Front-end Developer *Nov 2016 - Current*  
+**tZERO of Overstock.com**, Front-end Developer *Nov 2016 - Current*  
 • Helped team meet tight deadline to launch world’s first publicly traded security on a `blockchain`  
 • Lead refactoring from `jQuery` single page app to `React` with `Redux`  
 • Consistently delivered completed stories on time, in an `Agile` environment  
