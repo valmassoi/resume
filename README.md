@@ -9,4 +9,3 @@ Open Source Projects - https://github.com/valmassoi/
 `HTML` `CSS` `JavaScript` Projects and Algorithms - https://freecodecamp.com/valmassoi  
 Small Projects - https://codepen.io/valmassoi/  
 iOS - https://itunes.apple.com/us/developer/robert-valmassoi/id789603626  
-Web Design - [`Surf Burro`](http://surfburro.com/) [`VIN Scan App`](http://vinscanapp.com/) [`Oliver Surfboards`](http://oliversurfboards.com/) [`Varial Surf`](http://varialsurf.com/) [`Spyke's KTM`](http://spykesktm.com/)
