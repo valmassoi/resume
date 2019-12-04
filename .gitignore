@@ -9,6 +9,7 @@ js/lib
 .DS_Store
 .sass-cache
 notes.txt
+.vscode
 
 # Ignore Node & Bower
 ###################
