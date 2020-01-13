@@ -17,9 +17,9 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 > [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/), [Advanced React and Redux](https://www.udemy.com/certificate/UC-8IW4O5O5/), and [Angular 2 with TypeScript](https://www.udemy.com/certificate/UC-564D51CX/) Certifications *May 2016 - August 2016*
 
 ### Skills
-- Proficient in `JavaScript`/`TypeScript` (ES6+), `React@^16.9.0` (Hooks), `Redux`, { `firestore`, `functions`, `auth`, `storage` } from `Firebase`, `Node.js`, `Unit Testing`/`TDD`/`Jest`, `jQuery`, `HTML`, `CSS`/`SASS`, `REST`/`Websockets`, `Responsive Web Design`, `a11y`
+- Proficient in `JavaScript`/`TypeScript` (ES6+), `React@^16.9.0` (Hooks), `Redux`, `Firebase`/`Firestore`/`Serverless Functions`, `Node.js`, `Unit Testing`/`TDD`/`Jest`, `jQuery`, `HTML`, `CSS`/`SASS`, `REST`/`Websockets`, `Responsive Web Design`, `Accessibility`/`a11y`
 - Knowledge of `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`
-- Tools: `macOS`, `Linux`, `Webpack`, `Git`/`GitHub`/`GitLab`, `Yarn`/`npm`, `ESLint`, `File generators`, `GCP`, `AWS`, `VS Code`, `Xcode`, `Zeplin`, `Jira`/`Asana`, `Slack`
+- Tools: `macOS`, `Linux`, `Webpack`, `Git`/`GitHub`/`GitLab`, `Yarn`/`npm`, `ESLint`, `File generators`, `GCP`/`AWS`, `VS Code`, `Xcode`, `Zeplin`, `Jira`/`Asana`, `Slack`
 
 ### Work Experience
 **tZERO of Overstock.com** *Nov 2016 - Current*
