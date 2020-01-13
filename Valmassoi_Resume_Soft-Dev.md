@@ -39,10 +39,12 @@ Bachelor of Science in Mechanical Engineering *August 2014*
     - Named as inventor on patent application
 
 - Software Development Team Lead
-  - Technical sales - drove demos of onboarding and trading platforms to potential SaaS clients
+  - Led onboarding and trading platform team of developers, dev ops, and QAs
+  - Worked with PMs and designers on product direction
   - Re-architected the Securities Lending Platform from a view-only market data feed to have actionable order entry by reusing company's matching engine service
-    - Utilized `Firebase Functions`, `Firestore`, and `TypeScript` for pub/sub, websockets, authentication, and as an edge service between the client and back-end micro-services.
+    - Utilized `Firebase Functions`, `Firestore`, and `TypeScript` for pub/sub, websockets, authentication, and as an edge service between the client and back-end micro-services
   - Managed code progression and deployments
+  - Technical sales - drove demos of the whitelabel product to potential SaaS clients
 
 **Comity Web Agency** --> **Jade Labs LLC**, Owner/Developer *Dec 2010 - Feb 2018*
 - Founded company to give web presence to small businesses in multiple states
