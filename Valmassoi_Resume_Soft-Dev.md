@@ -23,7 +23,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 
 ### Work Experience
 **tZERO of Overstock.com** *Nov 2016 - Current*
-- Senior Front-end Developer
+- Front-end Developer --> Senior Front-end Developer
   - Helped team meet tight deadline to launch world’s first publicly traded security on a `blockchain`
   - Led refactoring from `jQuery` single page app to `React` with `Redux`
   - Consistently delivered completed stories on time, in an `Agile` environment
@@ -38,10 +38,10 @@ Bachelor of Science in Mechanical Engineering *August 2014*
     - Helped bridge the communication gap between software, business, and legal teams to brainstorm opportunities and limitations in order to define requirements
     - Named as inventor on patent application
 
-- Team Lead
+- Software Development Team Lead
   - Technical sales - drove demos of onboarding and trading platforms to potential SaaS clients
   - Re-architected the Securities Lending Platform from a view-only market data feed to have actionable order entry by reusing company's matching engine service
-    - `Firebase Functions` Backend For Front-end
+    - Utilized `Firebase Functions`, `Firestore`, and `TypeScript` for pub/sub, websockets, authentication, and as an edge service between the client and back-end micro-services.
   - Managed code progression and deployments
 
 **Comity Web Agency** --> **Jade Labs LLC**, Owner/Developer *Dec 2010 - Feb 2018*
