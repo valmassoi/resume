@@ -10,8 +10,8 @@ To obtain a full-time position as a **Front-end developer** with a focus on `Rea
 Bachelor of Science in Mechanical Engineering *August 2014*
 
 > #### Certifications
-> **FreeCodeCamp.com/[valmassoi](https://www.freecodecamp.com/valmassoi), Computer Software Engineering**
-> Received [Front End Development](https://www.freecodecamp.com/valmassoi/front-end-certification), [Data Visualization](https://www.freecodecamp.com/valmassoi/data-visualization-certification), and [Back End Development](https://www.freecodecamp.com/valmassoi/back-end-certification) Certifications *February 2016 - June 2016*
+> **freeCodeCamp.org/[valmassoi](https://www.freecodecamp.org/valmassoi), Computer Software Engineering**
+> Received [Front End Development](https://www.freecodecamp.org/valmassoi/front-end-certification), [Data Visualization](https://www.freecodecamp.org/valmassoi/data-visualization-certification), and [Back End Development](https://www.freecodecamp.org/valmassoi/back-end-certification) Certifications *February 2016 - June 2016*
 >
 > **Udemy.com, Computer Software Engineering**
 > [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/), [Advanced React and Redux](https://www.udemy.com/certificate/UC-8IW4O5O5/), and [Angular 2 with TypeScript](https://www.udemy.com/certificate/UC-564D51CX/) Certifications *May 2016 - August 2016*

@@ -6,6 +6,6 @@ https://www.linkedin.com/in/robertvalmassoi
 
 ## Portfolios
 Open Source Projects - https://github.com/valmassoi/  
-`HTML` `CSS` `JavaScript` Projects and Algorithms - https://freecodecamp.com/valmassoi  
+`HTML` `CSS` `JavaScript` Projects and Algorithms - https://freecodecamp.org/valmassoi  
 Small Projects - https://codepen.io/valmassoi/  
 iOS - https://itunes.apple.com/us/developer/robert-valmassoi/id789603626  
