@@ -41,8 +41,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 - Software Development Team Lead
   - Led onboarding and trading platform team of developers, dev ops, and QAs
   - Worked with PMs and designers on product direction
-  - Re-architected the Securities Lending Platform from a view-only market data feed to have actionable order entry by reusing company's matching engine service
-    - Utilized `Firebase Functions`, `Firestore`, and `TypeScript` for pub/sub, websockets, authentication, and as an edge service between the client and back-end micro-services
+  - Re-architected the Securities Lending Platform from a view-only market data feed to have actionable order entry by reusing company's matching engine service. Used `Firebase Functions`, `Firestore`, and `TypeScript` for pub/sub, websockets, authentication, and as an edge service between the client and back-end micro-services
   - Managed code progression and deployments
   - Technical sales - drove demos of the whitelabel product to potential SaaS clients
 
@@ -64,4 +63,4 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 - Redesigned swim spa to accommodate Michael Phelps’ wingspan, ultimately becoming new product line
 for company that helped grow category to become world leader in sales and design
 - Constructed insulated testing chamber to calculate and analyze energy efficiency of hot tubs, ensuring California Energy Commission requirements were met
-- Created 3D plumbing drawings to streamline manufacturing process, 1,000+ hours of SolidWorks logged
+- Created 3D plumbing drawings to streamline manufacturing process; 1,000+ hours of SolidWorks logged
