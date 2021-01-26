@@ -36,7 +36,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
     - Assisted CFO with liquidation on exchanges and OTC trades
   - [Security Token Smart Contract](https://github.com/tZERO-dev/T0ken) design
     - Helped bridge the communication gap between software, business, and legal teams to brainstorm opportunities and limitations in order to define requirements
-    - Named as inventor on patent application
+    - Named as inventor on a [patent pending application](https://patents.google.com/patent/US20200051067A1/en) for "Self-enforcing security token implementing smart-contract-based compliance rules consulting smart-contract-based global registry of investors"
 
 - Software Development Team Lead
   - Led onboarding and trading platform team of developers, dev ops, and QAs
