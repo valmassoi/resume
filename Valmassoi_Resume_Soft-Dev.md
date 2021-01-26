@@ -19,11 +19,11 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 ### Skills
 - Proficient in `JavaScript`/`TypeScript` (ES6+), `React@^16.9.0` (Hooks), `Redux`, `Firebase`/`Firestore`/`Serverless Functions`, `Node.js`, `Unit Testing`/`TDD`/`Jest`, `jQuery`, `HTML`, `CSS`/`SASS`, `REST`/`Websockets`, `Responsive Web Design`, `Accessibility`/`a11y`
 - Knowledge of `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`
-- Tools: `macOS`, `Linux`, `Webpack`, `Git`/`GitHub`/`GitLab`, `Yarn`/`npm`, `ESLint`, `File generators`, `GCP`/`AWS`, `VS Code`, `Xcode`, `Zeplin`, `Jira`/`Asana`, `Slack`
+- Tools: `macOS`, `Linux`, `Webpack`, `Git`/`GitHub`/`GitLab`, `Yarn`/`npm`, `ESLint`, `File generators`, `GCP`/`AWS`, `VS Code`, `Xcode`, `Figma/Zeplin`, `Jira`/`Asana`, `Slack`
 
 ### Work Experience
 **tZERO of Overstock.com** *Nov 2016 - Current*
-- Front-end Developer --> Senior Front-end Developer
+- Senior Front-end Developer
   - Helped team meet tight deadline to launch world’s first publicly traded security on a `blockchain`
   - Led refactoring from `jQuery` single page app to `React` with `Redux`
   - Consistently delivered completed stories on time, in an `Agile` environment
@@ -45,7 +45,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
   - Managed code progression and deployments
   - Technical sales - drove demos of the whitelabel product to potential SaaS clients
 
-**Comity Web Agency** --> **Jade Labs LLC**, Owner/Developer *Dec 2010 - Feb 2018*
+**Jade Labs, LLC**, Owner/Developer *Dec 2010 - Feb 2018*
 - Founded company to give web presence to small businesses in multiple states
 - Wide range of duties and responsibilities, from website development to company management
 - Managed 25 interns under an annual internship program, employing international technology students
