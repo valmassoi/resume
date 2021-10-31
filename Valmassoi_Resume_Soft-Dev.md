@@ -1,4 +1,4 @@
-## Robert Valmassoi - [GitHub](https://github.com/valmassoi) • [GitLab](https://gitlab.com/valmassoi)
+## Rob Valmassoi - [GitHub](https://github.com/valmassoi)
 [valmassoi@pm.me](mailto:valmassoi@pm.me?subject=Opportunity%20[via%20GitHub])  
 New York City, NY
 
@@ -19,31 +19,34 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 ### Skills
 - Proficient in `JavaScript`/`TypeScript` (ES6+), `React@^16.9.0` (Hooks), `Redux`, `Firebase`/`Firestore`/`Serverless Functions`, `Node.js`, `Unit Testing`/`TDD`/`Jest`, `jQuery`, `HTML`, `CSS`/`SASS`, `REST`/`Websockets`, `Responsive Web Design`, `Accessibility`/`a11y`
 - Knowledge of `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`
-- Tools: `macOS`, `Linux`, `Webpack`, `Git`/`GitHub`/`GitLab`, `Yarn`/`npm`, `ESLint`, `File generators`, `GCP`/`AWS`, `VS Code`, `Xcode`, `Figma/Zeplin`, `Jira`/`Asana`, `Slack`
+- Tools: `macOS`, `Linux`, `Webpack`, `Git`/`GitHub`/`GitLab`, `Yarn`/`npm`, `ESLint`, `File generators`, `GCP`/`AWS`, `VS Code`, `Xcode`, `Figma`/`Zeplin`, `Jira`/`Asana`, `Slack`
 
 ### Work Experience
-**tZERO of Overstock.com** *Nov 2016 - Current*
-- Senior Front-end Developer
-  - Helped team meet tight deadline to launch world’s first publicly traded security on a `blockchain`
-  - Led refactoring from `jQuery` single page app to `React` with `Redux`
-  - Consistently delivered completed stories on time, in an `Agile` environment
-  - Wrote maintainable, well-documented code with strong `code coverage`
-  - Broadened developer skill set / `blockchain` knowledge through weekly lunch & learns and collaboration
+**tZERO of Overstock.com** *Nov 2016 - Oct 2021*
+
+- Software Development Team Lead, Senior Front-end Developer
+  - Led onboarding and trading platform team of developers, dev ops, and QAs
+  - Worked with PMs and designers on product direction, feature set, UI/UX, and scope of work
+  - Re-architected the Securities Lending Platform from a view-only market data feed to have actionable order entry by reusing company's matching engine service. Utilized `Firebase Functions`, `Firestore`, and `TypeScript` for pub/sub, websockets, authentication, and as an edge service between the client and back-end micro-services
+  - Managed code progression and deployments
+  - Worked in a cross-team collaboration environment
+  - Technical sales - drove demos of the product to potential SaaS clients
+  - Continued making individual contributions to codebases
 
 - Director of Blockchain Development
-  - Led design and execution of crypto cold storage solution for company's Security Token Offering/capital raise
-    - Documented the procedure for nontechnical executives, which secured $72mil+ of BTC and ETH by utilizing `Shamir's Secret Sharing`, `Air Gapped Computer`, `Hierarchical Deterministic Hardware Wallet`
+  - Led technical design and execution of crypto cold storage solution for company's Security Token Offering/capital raise
+    - Documented the procedure for nontechnical executives, which secured $72mil+ of BTC and ETH by making use of `Shamir's Secret Sharing`, an `Air Gapped Computer`, and `Hierarchical Deterministic Hardware Wallet`
     - Assisted CFO with liquidation on exchanges and OTC trades
   - [Security Token Smart Contract](https://github.com/tZERO-dev/T0ken) design
     - Helped bridge the communication gap between software, business, and legal teams to brainstorm opportunities and limitations in order to define requirements
     - Named as inventor on a [patent pending application](https://patents.google.com/patent/US20200051067A1/en) for "Self-enforcing security token implementing smart-contract-based compliance rules consulting smart-contract-based global registry of investors"
 
-- Software Development Team Lead
-  - Led onboarding and trading platform team of developers, dev ops, and QAs
-  - Worked with PMs and designers on product direction
-  - Re-architected the Securities Lending Platform from a view-only market data feed to have actionable order entry by reusing company's matching engine service. Used `Firebase Functions`, `Firestore`, and `TypeScript` for pub/sub, websockets, authentication, and as an edge service between the client and back-end micro-services
-  - Managed code progression and deployments
-  - Technical sales - drove demos of the whitelabel product to potential SaaS clients
+- Senior Front-end Developer
+  - Made key contributions that helped team meet tight deadline to launch world’s first publicly traded security on a `blockchain`
+  - Led the rebuild of a `jQuery` based single page app to a feature-rich `React` with `Redux` trading application, redefining the company's front-end stack
+  - Consistently delivered completed stories on time, in an `agile` environment
+  - Wrote maintainable, well-documented code with strong `code coverage`
+  - Broadened developer skill set / `blockchain` knowledge through weekly technical presentations and collaboration
 
 **Jade Labs, LLC**, Owner/Developer *Dec 2010 - Feb 2018*
 - Founded company to give web presence to small businesses in multiple states
