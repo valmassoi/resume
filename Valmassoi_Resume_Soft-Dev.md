@@ -18,12 +18,14 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 
 ### Skills
 - Proficient in `JavaScript`/`TypeScript` (ES6+), `React@^16.9.0` (Hooks), `Redux`, `Firebase`/`Firestore`/`Serverless Functions`, `Node.js`, `Unit Testing`/`TDD`/`Jest`, `jQuery`, `HTML`, `CSS`/`SASS`, `REST`/`Websockets`, `Responsive Web Design`, `Accessibility`/`a11y`
-- Knowledge of `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`
+- Knowledge of `Go (Golang)` `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`
 - Tools: `macOS`, `Linux`, `Webpack`, `Git`/`GitHub`/`GitLab`, `Yarn`/`npm`, `ESLint`, `File generators`, `GCP`/`AWS`, `VS Code`, `Xcode`, `Figma`/`Zeplin`, `Jira`/`Asana`, `Slack`
 
 ### Work Experience
-**tZERO of Overstock.com** *Nov 2016 - Oct 2021*
+**Uber** *Nov 2021 - Current*
+- Merchant Integration team. Go (Golang) and React
 
+**tZERO of Overstock.com** *Nov 2016 - Oct 2021*
 - Software Development Team Lead, Senior Front-end Developer
   - Led onboarding and trading platform team of developers, dev ops, and QAs
   - Worked with PMs and designers on product direction, feature set, UI/UX, and scope of work
