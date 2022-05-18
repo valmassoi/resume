@@ -62,5 +62,3 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 >
 > **Udemy.com, Computer Software Engineering**
 > [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/), [Advanced React and Redux](https://www.udemy.com/certificate/UC-8IW4O5O5/), and [Angular 2 with TypeScript](https://www.udemy.com/certificate/UC-564D51CX/) Certifications *May 2016 - August 2016*
-
-<!-- https://certificate.algoexpert.io/AlgoExpert%20Certificate%20AE-dc0b9202ca -->
