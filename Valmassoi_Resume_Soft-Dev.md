@@ -1,20 +1,13 @@
 ## Rob Valmassoi - [GitHub](https://github.com/valmassoi)
-[valmassoi@pm.me](mailto:valmassoi@pm.me?subject=Opportunity%20[via%20GitHub])  
+[orient_00agility@icloud.com](mailto:orient_00agility@icloud.com?subject=Opportunity%20[via%20GitHub])  
 New York City, NY
 
 ### Objective
-To obtain a full-time position as a **Front-end developer** with a focus on `React`
+To obtain a full-time position as a Front-end or Full-stack engineer with a focus on `React`
 
 ### Education
 **Purdue University, School of Mechanical Engineering**
 Bachelor of Science in Mechanical Engineering *August 2014*
-
-> #### Certifications
-> **freeCodeCamp.org/[valmassoi](https://www.freecodecamp.org/valmassoi), Computer Software Engineering**
-> Received [Front End Development](https://www.freecodecamp.org/certification/valmassoi/legacy-front-end), [Data Visualization](https://www.freecodecamp.org/certification/valmassoi/legacy-data-visualization), and [Back End Development](https://www.freecodecamp.org/certification/valmassoi/legacy-back-end) Certifications *February 2016 - June 2016*
->
-> **Udemy.com, Computer Software Engineering**
-> [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/), [Advanced React and Redux](https://www.udemy.com/certificate/UC-8IW4O5O5/), and [Angular 2 with TypeScript](https://www.udemy.com/certificate/UC-564D51CX/) Certifications *May 2016 - August 2016*
 
 ### Skills
 - Proficient in `JavaScript`/`TypeScript` (ES6+), `React@^16.9.0` (Hooks), `Redux`, `Firebase`/`Firestore`/`Serverless Functions`, `Node.js`, `Unit Testing`/`TDD`/`Jest`, `jQuery`, `HTML`, `CSS`/`SASS`, `REST`/`Websockets`, `Responsive Web Design`, `Accessibility`/`a11y`
@@ -41,7 +34,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
     - Assisted CFO with liquidation on exchanges and OTC trades
   - [Security Token Smart Contract](https://github.com/tZERO-dev/T0ken) design
     - Helped bridge the communication gap between software, business, and legal teams to brainstorm opportunities and limitations in order to define requirements
-    - Named as inventor on an [issued patent](https://patents.google.com/patent/US20200051067A1/en) for "Self-enforcing security token implementing smart-contract-based compliance rules consulting smart-contract-based global registry of investors"
+    - Named as inventor on an issued patent for ["Self-enforcing security token implementing smart-contract-based compliance rules consulting smart-contract-based global registry of investors"](https://patents.google.com/patent/US20200051067A1/en)
 
 - Senior Front-end Developer
   - Made key contributions that helped team meet tight deadline to launch world’s first publicly traded security on a `blockchain`
@@ -62,3 +55,12 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 - First app to have over 100 cryptocurrencies, filling an untapped need in the industry
 - Successfully passed Apple’s App Store approval process
 - Continued to improve app, implement new features, and provide updates with SDK and API changes
+
+> #### Certifications
+> **freeCodeCamp.org/[valmassoi](https://www.freecodecamp.org/valmassoi), Computer Software Engineering**
+> Received [Front End Development](https://www.freecodecamp.org/certification/valmassoi/legacy-front-end), [Data Visualization](https://www.freecodecamp.org/certification/valmassoi/legacy-data-visualization), and [Back End Development](https://www.freecodecamp.org/certification/valmassoi/legacy-back-end) Certifications *February 2016 - June 2016*
+>
+> **Udemy.com, Computer Software Engineering**
+> [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/), [Advanced React and Redux](https://www.udemy.com/certificate/UC-8IW4O5O5/), and [Angular 2 with TypeScript](https://www.udemy.com/certificate/UC-564D51CX/) Certifications *May 2016 - August 2016*
+
+<!-- https://certificate.algoexpert.io/AlgoExpert%20Certificate%20AE-dc0b9202ca -->
