@@ -1,6 +1,5 @@
 ## Robert Valmassoi - [GitHub](https://github.com/valmassoi)
-**Sr. Full-stack Engineer** | San Juan, PR + NYC, NY
-[orient_00agility@icloud.com](mailto:orient_00agility@icloud.com?subject=Opportunity%20[via%20GitHub]) | linkedin.com/in/robertvalmassoi
+**Sr. Full-stack Engineer** | San Juan, PR + NYC, NY | [orient_00agility@icloud.com](mailto:orient_00agility@icloud.com?subject=Opportunity%20[via%20GitHub]) | linkedin.com/in/robertvalmassoi
 
 ### Education
 **Purdue University, School of Mechanical Engineering**
