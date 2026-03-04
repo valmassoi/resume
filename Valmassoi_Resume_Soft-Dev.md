@@ -1,64 +1,69 @@
 ## Rob Valmassoi - [GitHub](https://github.com/valmassoi)
-[orient_00agility@icloud.com](mailto:orient_00agility@icloud.com?subject=Opportunity%20[via%20GitHub])  
-New York City, NY
-
-### Objective
-To obtain a full-time position as a Front-end or Full-stack engineer with a focus on `React`
+**Sr. Full-stack Engineer** | San Juan, PR + NYC, NY
+[orient_00agility@icloud.com](mailto:orient_00agility@icloud.com?subject=Opportunity%20[via%20GitHub]) | linkedin.com/in/robertvalmassoi
 
 ### Education
 **Purdue University, School of Mechanical Engineering**
 Bachelor of Science in Mechanical Engineering *August 2014*
 
 ### Skills
-- Proficient in `JavaScript`/`TypeScript` (ES6+), `React@^16.9.0` (Hooks), `Redux`, `Firebase`/`Firestore`/`Serverless Functions`, `Node.js`, `Unit Testing`/`TDD`/`Jest`, `jQuery`, `HTML`, `CSS`/`SASS`, `REST`/`Websockets`, `Responsive Web Design`, `Accessibility`/`a11y`
-- Knowledge of `Go (Golang)` `Angular 2`, `Objective-C`, `Swift`, `Adobe Creative Cloud`
-- Tools: `macOS`, `Linux`, `Webpack`, `Git`/`GitHub`/`GitLab`, `Yarn`/`npm`, `ESLint`, `File generators`, `GCP`/`AWS`, `VS Code`, `Xcode`, `Figma`/`Zeplin`, `Jira`/`Asana`, `Slack`
+- **Languages & Frameworks**: `Go` (Golang), `JavaScript` (ES6+), `TypeScript`, modern `React`, `Redux`, `Node.js`, `Jest`, `HTML`, `CSS`, `SASS`, `Angular`, `Swift`, `Objective-C`
+- **Practices**: `REST`, `WebSockets`, `Webhooks`, `Responsive Web Design`, `Accessibility`, `Unit Testing`, `Integration Testing`
+- **Tools & Platforms**: `macOS`, `Linux`, `GCP`, `AWS`, `Git`, `GitHub`, `GitLab`, `Webpack`, `Yarn`, `npm`, `ESLint`, `VS Code`, `Cursor`, `Xcode`, `Figma`, `Zeplin`, `Jira`, `Asana`
 
 ### Work Experience
-**Uber** *Nov 2021 - Current*
-- Merchant Integration team. Go (Golang) and React
+#### Uber Technologies, Inc. — *Nov 2021 - Feb 2026*
+**Senior Software Engineer**
+Engineer on Uber Direct, the white-labeled delivery-as-a-service platform built on Uber Eats’ courier network, serving enterprise and SMB clients (Apple, Walmart, and others) via API and a merchant dashboard. Worked full-stack in Go and React, collaborating across product, design, and operational teams. Mentored interns and junior engineers on technical and career growth.
 
-**tZERO of Overstock.com** *Nov 2016 - Oct 2021*
-- Software Development Team Lead, Senior Front-end Developer
-  - Led onboarding and trading platform team of developers, dev ops, and QAs
-  - Worked with PMs and designers on product direction, feature set, UI/UX, and scope of work
-  - Re-architected the Securities Lending Platform from a view-only market data feed to have actionable order entry by reusing company's matching engine service. Utilized `Firebase Functions`, `Firestore`, and `TypeScript` for pub/sub, websockets, authentication, and as an edge service between the client and back-end micro-services
-  - Managed code progression and deployments
-  - Worked in a cross-team collaboration environment
-  - Technical sales - drove demos of the product to potential SaaS clients
-  - Continued making individual contributions to codebases
+**Partner Experience**
+- Built merchant-facing dashboard features including self-serve onboarding, address autocomplete, and internal user emulation tooling
+- Delivered self-serve CC/Invoice billing setup (15d to 1h) by eliminating manual ops steps
+- Implemented order history search/filtering to improve merchant operations and support workflows
+- Created analytics funnel reporting to surface onboarding drop-off insights, enabling data-driven product improvements
+- Led large-scale architectural refactors, improving codebase maintainability and developer velocity
 
-- Director of Blockchain Development
-  - Led technical design and execution of crypto cold storage solution for company's Security Token Offering/capital raise
-    - Documented the procedure for nontechnical executives, which secured $72mil+ of BTC and ETH by making use of `Shamir's Secret Sharing`, an `Air Gapped Computer`, and `Hierarchical Deterministic Hardware Wallet`
-    - Assisted CFO with liquidation on exchanges and OTC trades
-  - [Security Token Smart Contract](https://github.com/tZERO-dev/T0ken) design
-    - Helped bridge the communication gap between software, business, and legal teams to brainstorm opportunities and limitations in order to define requirements
-    - Named as inventor on an issued patent for ["Self-enforcing security token implementing smart-contract-based compliance rules consulting smart-contract-based global registry of investors"](https://patents.google.com/patent/US20200051067A1/en)
+**Delivery Experience**
+- Reduced courier fraud by implementing geolocation restrictions and PIN code handshake requirements
+- Designed greenfield feedback API in collaboration with cross-functional stakeholders, enabling a new data collection channel across the delivery lifecycle
 
-- Senior Front-end Developer
-  - Made key contributions that helped team meet tight deadline to launch world’s first publicly traded security on a `blockchain`
-  - Led the rebuild of a `jQuery` based single page app to a feature-rich `React` with `Redux` trading application, redefining the company's front-end stack
-  - Consistently delivered completed stories on time, in an `agile` environment
-  - Wrote maintainable, well-documented code with strong `code coverage`
-  - Broadened developer skill set / `blockchain` knowledge through weekly technical presentations and collaboration
+**Courier Pick and Pack**
+- Delivered foundational features for grocery deliveries, directly unblocking pending commercial deals
+- Shipped real-time item replacement on consumer-facing delivery tracking webpage, tackling challenging authentication complexities
+- Opened courier to end-customer communication channels, improving item find rate for grocery deliveries
+- Tuned ETA model to be shopping-time aware, exposing improved delivery estimates in the quote API response
 
-**Jade Labs, LLC**, Owner/Developer *Dec 2010 - Feb 2018*
-- Founded company to give web presence to small businesses in multiple states
-- Wide range of duties and responsibilities, from website development to company management
-- Managed 25 interns under an annual internship program, employing international technology students
-- Negotiated $100,000+ in contracts for a custom mobile application that streamlined company’s workflow
-- Worked directly with clients throughout product builds, adjusting services to needs
 
-**Space Cash App**, Designer/Developer *Dec 2013 - Jan 2019*
-- Sole developer of a 4.5/5 star rated bitcoin/altcoin price ticker application
-- First app to have over 100 cryptocurrencies, filling an untapped need in the industry
-- Successfully passed Apple’s App Store approval process
-- Continued to improve app, implement new features, and provide updates with SDK and API changes
+#### tZERO of Overstock.com — *Nov 2016 - Oct 2021*
+**Director of Blockchain Development**
+- Led design and execution of crypto cold storage solution for company's Security Token Offering/capital raise
+- Documented procedure for nontechnical executives, which secured $72M of BTC and ETH by utilizing Shamir's Secret Sharing and a Hierarchical-Deterministic Hardware Wallet
+- Supported CFO with liquidation on exchanges and OTC trades
+- Architected security token smart contracts — the company’s core IP and technical foundation of its STO platform
+- Fostered alignment of engineering, business, and legal teams to define STO requirements and technical boundaries
+- Inventor on an issued patent: ["Self-enforcing security token implementing smart-contract-based compliance rules consulting smart-contract-based global registry of investors"](https://patents.google.com/patent/US20200051067A1/en)
 
-> #### Certifications
-> **freeCodeCamp.org/[valmassoi](https://www.freecodecamp.org/valmassoi), Computer Software Engineering**
-> Received [Front End Development](https://www.freecodecamp.org/certification/valmassoi/legacy-front-end), [Data Visualization](https://www.freecodecamp.org/certification/valmassoi/legacy-data-visualization), and [Back End Development](https://www.freecodecamp.org/certification/valmassoi/legacy-back-end) Certifications *February 2016 - June 2016*
->
-> **Udemy.com, Computer Software Engineering**
-> [Modern React with Redux](https://www.udemy.com/certificate/UC-QESJIVSD/), [Advanced React and Redux](https://www.udemy.com/certificate/UC-8IW4O5O5/), and [Angular 2 with TypeScript](https://www.udemy.com/certificate/UC-564D51CX/) Certifications *May 2016 - August 2016*
+**Software Development Team Lead**
+- Led onboarding and trading platform team of developers, DevOps, and QAs
+- Re-architected the Securities Lending Platform from a view-only market data feed to have actionable order entry by reusing company's matching engine service
+- Collaborated closely with PMs/designers on product direction; managed code progression and deployments
+- Drove technical sales demos of onboarding and trading platforms to prospective SaaS clients
+
+**Senior Front-end Developer**
+- Delivered platform launch, under a tight deadline, of world’s first publicly traded security on a blockchain
+- Led refactoring from jQuery single-page app to React with Redux, improving scalability and maintainability
+- Established coding standards, documentation, and test coverage practices
+
+
+#### Jade Labs, LLC — *Dec 2010 - Feb 2018*
+**Owner/Developer**
+- Founded and operated a web/software studio serving small businesses across multiple states; owned scoping, delivery, and client relationships
+- Built and ran an annual internship program; recruited and mentored up to 25 international engineering interns
+- Negotiated and delivered $100K+ in contracts for a custom mobile application that streamlined a client’s workflow
+
+
+#### Space Cash App — *Dec 2013 - Jan 2019*
+**Designer/Developer**
+- Built and maintained a Bitcoin/altcoin price ticker iOS app as sole developer; maintained a 4.5/5 user rating
+- Early mover to support 100+ cryptocurrencies, filling an unmet market need
+- Shipped ongoing releases to accommodate SDK/API changes and deliver new features based on user feedback
