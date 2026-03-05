@@ -12,7 +12,7 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 
 ### Work Experience
 #### Uber Technologies, Inc. — *Nov 2021 - Feb 2026*
-**L4 -> L5 Senior Software Engineer**
+**L4 -> L5 Senior Software Engineer**  
 Engineer on Uber Direct, the white-labeled delivery-as-a-service platform built on Uber Eats’ courier network, serving enterprise and SMB clients (Apple, Walmart, and others) via API and a merchant dashboard. Worked full-stack in Go and React, collaborating across product, design, and operational teams. Mentored interns and junior engineers on technical and career growth.
 
 **Partner Experience**
