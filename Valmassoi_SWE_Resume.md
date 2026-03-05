@@ -8,11 +8,11 @@ Bachelor of Science in Mechanical Engineering *August 2014*
 ### Skills
 - **Languages & Frameworks**: `Go` (Golang), `JavaScript` (ES6+), `TypeScript`, modern `React`, `Redux`, `Node.js`, `Jest`, `HTML`, `CSS`, `SASS`, `Angular`, `Swift`, `Objective-C`
 - **Practices**: `REST`, `WebSockets`, `Webhooks`, `Responsive Web Design`, `Accessibility`, `Unit Testing`, `Integration Testing`
-- **Tools & Platforms**: `macOS`, `Linux`, `GCP`, `AWS`, `Git`, `GitHub`, `GitLab`, `Webpack`, `Yarn`, `npm`, `ESLint`, `VS Code`, `Cursor`, `Xcode`, `Figma`, `Zeplin`, `Jira`, `Asana`
+- **Tools & Platforms**: `macOS`, `Linux`, `GCP`, `AWS`, `Git`, `GitHub`, `GitLab`, `Webpack`, `Yarn`, `npm`, `ESLint`, `VS Code`, `Claude`, `Cursor`, `Xcode`, `Figma`, `Zeplin`, `Jira`, `Asana`
 
 ### Work Experience
 #### Uber Technologies, Inc. — *Nov 2021 - Feb 2026*
-**Senior Software Engineer**
+**L4 -> L5 Senior Software Engineer**
 Engineer on Uber Direct, the white-labeled delivery-as-a-service platform built on Uber Eats’ courier network, serving enterprise and SMB clients (Apple, Walmart, and others) via API and a merchant dashboard. Worked full-stack in Go and React, collaborating across product, design, and operational teams. Mentored interns and junior engineers on technical and career growth.
 
 **Partner Experience**
